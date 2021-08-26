@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MicIfhonce
-- 👀 I’m interested in tech and sport, because i study as an Informatics 
-- 🌱 I’m currently learning in my bachelor study
-
+Michael Napitupulu
+11S29935
 
 <!---
 MicIfhonce/MicIfhonce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
